@@ -1,14 +1,6 @@
 {
-  "keywords": [
-    "Fotografie",
-    "KI",
-    "OpenAI",
-    "ChatGPT"
-  ],
-  "exclude_words": [
-    "Werbung",
-    "Gewinnspiel"
-  ],
+  "keywords": ["Fotografie", "KI", "OpenAI", "ChatGPT"],
+  "exclude_words": ["Werbung", "Gewinnspiel"],
   "exclude_users": [],
   "language": "de",
   "interval_minutes": 10,
